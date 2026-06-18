@@ -1,1 +1,1 @@
-# Lagrange-error-visualizer
+# taylor-lagrange-visualizer
